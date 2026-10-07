@@ -1,6 +1,6 @@
 [README (1).md](https://github.com/user-attachments/files/33167043/README.1.md)
 <h1 align="center">Hi 👋, I'm Tarun</h1>
-<h3 align="center">BCA  • Web dev •Automation Builder • Content Creator & Video Editor • Learning Digital Marketing with AI</h3>
+<h3 align="center">BCA  • Web dev • Automation Builder • Content Creator & Video Editor • Learning Digital Marketing with AI</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Kaithal%2C%20Haryana%2C%20India-blue?style=for-the-badge" />
