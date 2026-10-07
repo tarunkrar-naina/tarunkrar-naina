@@ -17,7 +17,7 @@
 - 🎬 I also work as a **Video Editor**
 - 🤖 I love building **automation tools** with Python (Telegram bots, blog automation)
 - 🌐 I build web apps 
-- 🌱 Currently learning: html, css, java scprit, AI tools, Digital Marketing
+- 🌱 Currently learning: python, java, AI tools, Digital Marketing
 - 📫 Reach me: **nainatarun41@gmail.com**
 
 ---
