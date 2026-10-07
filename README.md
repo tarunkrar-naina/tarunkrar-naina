@@ -1,6 +1,6 @@
 [README (1).md](https://github.com/user-attachments/files/33167043/README.1.md)
 <h1 align="center">Hi 👋, I'm Tarun</h1>
-<h3 align="center">BCA Student • Automation Builder • Video Editor • Learning Digital Marketing with AI</h3>
+<h3 align="center">BCA  • Web dev •Automation Builder • Content Creator & Video Editor • Learning Digital Marketing with AI</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Location-Kaithal%2C%20Haryana%2C%20India-blue?style=for-the-badge" />
@@ -13,11 +13,11 @@
 
 - 🎓 BCA student from Kaithal, Haryana, India
 - 💻 **O Level** certified (A+) and 🤖 **Robotics** certified (A+)
-- 📈 Currently learning **Digital Marketing with AI**
+- 📈  **Digital Marketing with AI**
 - 🎬 I also work as a **Video Editor**
 - 🤖 I love building **automation tools** with Python (Telegram bots, blog automation)
-- 🌐 I build web apps with **TypeScript**
-- 🌱 Currently learning: Python, TypeScript, AI tools, Digital Marketing
+- 🌐 I build web apps 
+- 🌱 Currently learning: html, css, java scprit, AI tools, Digital Marketing
 - 📫 Reach me: **nainatarun41@gmail.com**
 
 ---
