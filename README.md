@@ -75,3 +75,24 @@
 </p>
 
 <p align="center">⭐ Thanks for visiting my profile! ⭐</p>
+## 📸 Project Screenshots
+
+### 🏠 MeraGhar Properties
+<p align="center">
+  <a href="https://meraghar-properties.vercel.app"><img src="images/meraghar.png" alt="MeraGhar Properties" width="800"></a>
+</p>
+
+### 💼 Personal Portfolio
+<p align="center">
+  <img src="images/portfolio.png" alt="Tarun Portfolio" width="800">
+</p>
+
+### 🎮 Air Shoot Game
+<p align="center">
+  <a href="https://air-shoot.ai.studio"><img src="images/air-shoot-game.png" alt="Air Shoot Game" width="800"></a>
+</p>
+
+### 🏫 Love Public Sr. Sec. School
+<p align="center">
+  <a href="https://love-school-school-website-two.vercel.app"><img src="images/love-school.png" alt="Love Public School Website" width="800"></a>
+</p>
